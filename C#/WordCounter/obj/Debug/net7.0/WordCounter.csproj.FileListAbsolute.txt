@@ -1,0 +1,15 @@
+C:\GITHUB\WordCounter\C#\WordCounter\bin\Debug\net7.0\WordCounter.exe
+C:\GITHUB\WordCounter\C#\WordCounter\bin\Debug\net7.0\WordCounter.deps.json
+C:\GITHUB\WordCounter\C#\WordCounter\bin\Debug\net7.0\WordCounter.runtimeconfig.json
+C:\GITHUB\WordCounter\C#\WordCounter\bin\Debug\net7.0\WordCounter.dll
+C:\GITHUB\WordCounter\C#\WordCounter\bin\Debug\net7.0\WordCounter.pdb
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.csproj.AssemblyReference.cache
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.AssemblyInfoInputs.cache
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.AssemblyInfo.cs
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.csproj.CoreCompileInputs.cache
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.dll
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\refint\WordCounter.dll
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.pdb
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\WordCounter.genruntimeconfig.cache
+C:\GITHUB\WordCounter\C#\WordCounter\obj\Debug\net7.0\ref\WordCounter.dll
